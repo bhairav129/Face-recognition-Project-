@@ -1,0 +1,13 @@
+# Libraries
+cv2 - OpenCV
+tensor flow 
+Keras -tensor flow interface
+# Other files and folders
+#datasets
+facial_expression_model_structure.json
+facial_expression_model_weights.h5
+
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
